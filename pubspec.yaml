@@ -51,6 +51,8 @@ dependencies:
   wifi_iot: ^0.3.19+2
   battery_plus: ^6.2.2
   another_telephony: ^0.4.1
+  cryptography: ^2.7.0
+  es_compression: ^2.0.14
 
 dev_dependencies:
   flutter_test:

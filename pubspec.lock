@@ -297,6 +297,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.6"
+  cryptography:
+    dependency: "direct main"
+    description:
+      name: cryptography
+      sha256: d146b76d33d94548cf035233fbc2f4338c1242fa119013bead807d033fc4ae05
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.7.0"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -393,6 +401,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.7"
+  es_compression:
+    dependency: "direct main"
+    description:
+      name: es_compression
+      sha256: "174d2cee4e182d1a8df92712eaa6ee56a0adf83d4b8a14838c66380caa4e65a7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.14"
   fake_async:
     dependency: transitive
     description:
